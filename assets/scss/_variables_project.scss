@@ -1,6 +1,15 @@
-/*
+$primary: #151C2E;
+$secondary: #000000;
 
-Add styles or override variables from the theme here.
+//$td-enable-google-fonts: false;
+//$google_font_name: "Times New Roman";
 
-*/
 
+// Defina uma variável para a cor personalizada
+$custom-color: #FFA500;
+
+// Crie uma classe personalizada para o botão com a cor de fundo personalizada
+.btn-custom {
+    background-color: $custom-color;
+    color: white; // Define a cor do texto para branco para maior contraste
+}

@@ -1,22 +1,16 @@
 ---
-title: Getting Started
+title: ...
 description: What does your user need to know to try your project?
-categories: [Examples, Placeholders]
-tags: [test, docs]
+# categories: [Examples, Placeholders]
+# tags: [test, docs]
 weight: 2
 ---
 
 {{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
+Mudar dps
 {{% /pageinfo %}}
 
-Information in this section helps your user try your project themselves.
-
-* What do your users need to do to start using your project? This could include downloading/installation instructions, including any prerequisites or system requirements.
-
-* Introductory “Hello World” example, if appropriate. More complex tutorials should live in the Tutorials section.
-
-Consider using the headings below for your getting started page. You can delete any that are not applicable to your project.
+Para criar uma etiqueta, clique em 'criar nova etiqueta', escreva um nome para a mesma e uma cor (clicando no conta-gotas), após isto, clique em Criar na parte inferior direita da janela pop-up
 
 ## Prerequisites
 
