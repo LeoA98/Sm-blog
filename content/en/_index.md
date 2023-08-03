@@ -1,6 +1,5 @@
 ---
-title: Documentos
-linkTitle: Documentos
+title: Home
 ---
 
 {{< blocks/cover title="Bem-vindo à plataforma SM-Zap!" image_anchor="top" height="full" >}}
@@ -12,15 +11,13 @@ linkTitle: Documentos
 
 
 {{% blocks/lead color="primary" %}}
-Goldydocs provides a single web UI providing visibility into porridge
-temperature, chair size, and bed softness metrics! You can even find out who's
-been eating **your** porridge.
 
-(Sadly, Goldydocs isn't a real project, but you can use this site as an example
-to create your own real websites with [Docsy](https://docsy.dev))
+Definir um Texto
+Visite nosso site [SM](https://app.smzap.tech/)
+
 {{% /blocks/lead %}}
 
-{{% blocks/section type="row" %}}
+<!-- {{% blocks/section type="row" %}}
 
 {{% blocks/feature icon="fab fa-app-store-ios" title="Download **from AppStore**" %}}
 Get the Goldydocs app!
@@ -35,6 +32,6 @@ contributions workflow on **GitHub**. New users are always welcome!
 {{% blocks/feature icon="fab fa-twitter" title="Follow us on Twitter!"
     url="https://twitter.com/GoHugoIO" %}}
 For announcement of latest features etc.
-{{% /blocks/feature %}}
+{{% /blocks/feature %}} -->
 
 {{% /blocks/section %}}

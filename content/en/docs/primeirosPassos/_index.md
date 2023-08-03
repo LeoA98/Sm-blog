@@ -1,12 +1,12 @@
 ---
 title: Primeiros passos
-description: Mudar dps
+# description: Mudar dps
 weight: 1
 ---
 
-{{% pageinfo %}}
+<!-- {{% pageinfo %}}
 Mudar dps
-{{% /pageinfo %}}
+{{% /pageinfo %}} -->
 
 Seguindo os passos apresentados neste tutorial, você irá criar sua conta e realizar o primero disparo em sua plataforma.
 

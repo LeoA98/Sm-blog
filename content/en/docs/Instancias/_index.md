@@ -1,14 +1,14 @@
 ---
-title: ...
+title: Instancias
 description: What does your user need to know to try your project?
 # categories: [Examples, Placeholders]
 # tags: [test, docs]
 weight: 2
 ---
 
-{{% pageinfo %}}
+<!-- {{% pageinfo %}}
 Mudar dps
-{{% /pageinfo %}}
+{{% /pageinfo %}} -->
 
 Para criar uma etiqueta, clique em 'criar nova etiqueta', escreva um nome para a mesma e uma cor (clicando no conta-gotas), após isto, clique em Criar na parte inferior direita da janela pop-up
 
